@@ -1,0 +1,25 @@
+{
+  "name": "goku-ui",
+  "version": "1.0.0",
+  "description": "ui nation",
+  "main": "nuxt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies":{
+    "nuxt3":"latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PreciousGariya/goku-ui.git"
+  },
+  "keywords": [
+    "k"
+  ],
+  "author": "Goku",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PreciousGariya/goku-ui/issues"
+  },
+  "homepage": "https://github.com/PreciousGariya/goku-ui#readme"
+}
